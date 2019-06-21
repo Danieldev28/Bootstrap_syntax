@@ -1,0 +1,42 @@
+/*.box {*/
+/*    height:45px;*/
+/*    width:42px;*/
+/*    background-color:yellow;*/
+/*    margin:10px 10px;*/
+/*}*/
+
+.image {
+    background-color: red;
+    height:150px;
+    padding:0;
+}
+
+.header {
+    background-color: grey;
+  
+}
+
+.bg-color {
+    background-color:grey;
+     height:150px;
+}
+
+.content-background-color {
+    background-color:blue;
+    height:400px;
+}
+
+.paragraph-bg-color1 {
+    background-color: orange;
+}
+
+.paragraph-bg-color2 {
+    background-color: purple;
+}
+.title-decortion {
+    text-decoration: underline;
+}
+
+.display-inline {
+    display: inline-block;
+}
